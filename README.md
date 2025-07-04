@@ -133,11 +133,7 @@ Frontend will run at `http://localhost:5173`
 
 ---
 
-## 📥 Project Presentation
 
-📄 [Download PDF Presentation](https://github.com/XML-project-2k25/SigniVision/blob/main/assets/presentation.pdf?raw=true)
-
----
 
 ## ✅ Future Scope
 
