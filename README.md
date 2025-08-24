@@ -1,7 +1,7 @@
 
 # ✋ SigniVision: Real-Time  Sign Language Detection with Audio Output
 
-SigniVision is an AI-powered web application that detects ** Sign Language (SL)** signs in real-time using a webcam and generates **audio feedback** using state-of-the-art **transformer-based text-to-speech (TTS)**.
+SigniVision is an AI-powered web application that detects **Sign Language (SL)** signs in real-time using a webcam and generates **audio feedback** using state-of-the-art **transformer-based text-to-speech (TTS)**.
 
 This project bridges the communication gap between the hearing-impaired and the general public using deep learning models such as YOLOv5 (for hand sign detection) and VITS (for audio synthesis).
 
